@@ -1,2 +1,2 @@
 # Plant_Disease_Detection_Aicte_Intern
-Plant disease Detection Weekly project
+Plant disease classification for AICTE internship Weekly project submission
